@@ -11,3 +11,13 @@ CO1
 • Storing and retrieving data from files for persistence.   
 • Using collections to efficiently search, sort, and manage records.  
 
+Name: Aadya Diwan
+Roll number: 2401010040
+Course: B.Tech CSE
+Section: A
+Semester: III
+
+Submitted to:
+Dr. Lucky Verma
+(Java Programming)
+
